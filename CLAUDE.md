@@ -2,10 +2,12 @@
 
 本 repo 為 LiquidGlassHeaderTemplate 產品的 **Module Spec git**，module_id 為 `no1_liquid_glass_header`。目前為空殼，尚無 Spec 內容。
 
-## 三層 git 配對
+## 四層 git 配對
 
 - **頂層 Product git：** `../../`
-- **對側 Module Impl git：** `no5_product_development/no1_liquid_glass_header/`
+- **對側 Module Design git：** 尚無，模板庫視覺由 Impl 直接承載
+- **本 Module Spec git：** 即本 repo（位於 `no4_product_specs/no1_liquid_glass_header/`）
+- **對側 Module Impl git：** `no6_product_development/no1_liquid_glass_header/`
 
 ## 當前狀態
 
