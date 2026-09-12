@@ -11,7 +11,7 @@
 - Design git 尚未建立
 - 本 repo 承載公開行為規格
 - Impl git 承載 React Native 模板
-- 配對以 `decision_framework_router` 的註冊表為準
+- 配對以 `product-scope` 的註冊表為準
 
 ---
 
@@ -29,9 +29,9 @@
 
 ## 原生工作規則
 
-- 任何改動先使用 `decision_framework_router`
-- 所有 Spec 改動使用 `spec_writer`
-- Markdown 改動使用 `universal_writing_linter`
+- 任何改動先使用 `product-scope`
+- 所有 Spec 改動使用 `code-spec`
+- Markdown 改動使用 `doc-markdown`
 - 行為變動要檢查 Impl
 - 跨層 branch 名稱必須一致
 - 配對 commit 內容必須一致
